@@ -1,0 +1,8 @@
+# Thursday mixed league, week 42
+# One game per line: [YYYY-MM-DD] Player: frame frame ... (10 frames)
+2026-10-08 Ana: X 7/ 9- X -8 8/ -6 X X X81
+2026-10-08 Ben: 9- 8/ 7- 6/ X 8- 9/ 5- 7/ 9-
+2026-10-08 Cy: 8/ 9/ X 7- 9/ X 8/ 5- 9- 6/5
+2026-10-15 Ana: 8/ 9/ X 7- 9/ X 8/ 5- 9- 6/5
+2026-10-15 Ben: X X 9- 8- 7/ 9- X 8- 9/ 7/8
+2026-10-15 Cy: 7- 6- 9/ X 7/ 8- 6- 9- 8/ X
